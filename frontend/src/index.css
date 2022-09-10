@@ -12,7 +12,9 @@ body, html {
     color: #fff;
 }
 
-a, a:hover, a:visited {
+a, 
+a:hover,
+a:visited {
     color: unset;
     text-decoration: none;
 }
